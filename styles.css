@@ -279,3 +279,11 @@ img {
         height: 2.25rem;
     }
 }
+
+.inactive-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7b7674;
+}
