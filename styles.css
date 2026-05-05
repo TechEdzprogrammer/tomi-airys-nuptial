@@ -287,3 +287,7 @@ img {
     align-items: center;
     background-color: #7b7674;
 }
+
+.inactive-header{
+    color:#efe2d7;
+}
